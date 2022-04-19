@@ -1,0 +1,18 @@
+.completed{
+    text-decoration: line-through;
+    text-decoration-color: navy;  
+}
+.incomplete span{
+    background-color:coral;
+    width: 20%;
+    align: center;
+}
+.item{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      color: coral;  
+}  
+p{
+    font-family: cursive;
+}
